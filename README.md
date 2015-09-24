@@ -1,2 +1,2 @@
-# First-repository
-It's my first repository.
+#Hello, GitHub world!
+No software is here. I's just repository, created for exploring GitHub.
